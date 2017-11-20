@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "The LEGO Ninjago Movie",
+    "description":
+      "Six young ninjas Lloyd, Jay, Kai, Cole, Zane and Nya are tasked with defending their island home, called Ninjago. By night, they're gifted warriors, using their skills and awesome fleet of vehicles to fight villains and monsters. By day, they're ordinary teens struggling against their greatest enemy: high school",
+    "releaseYear": 2017,
+    "stars": ["Jackie Chan", "Dave Franco", "Fred Armisen"],
+    "category": "Animation",
+    "previewImage":
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxNjIxNzM5Nl5BMl5BanBnXkFtZTgwMzg5NzY2MjI@._V1_SY1000_CR0,0,674,1000_AL_.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Silver Linings",
+    "description":
+      "After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife. Things get more challenging when Pat meets Tiffany, a mysterious girl with problems of her own",
+    "releaseYear": 2012,
+    "stars": ["Bradley Cooper", "Jennifer Lawrence", "Robert De Niro"],
+    "category": "Drama",
+    "previewImage":
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM2MTI5NzA3MF5BMl5BanBnXkFtZTcwODExNTc0OA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg"
+  },
+  {
+    "id": 3,
+    "title": "James Bond 007 - Spectre",
+    "description":
+      "A cryptic message from Bond's past sends him on a trail to uncover a sinister organization. While M battles political forces to keep the secret service alive, Bond peels back the layers of deceit to reveal the terrible truth behind SPECTRE",
+    "releaseYear": 2015,
+    "stars": ["Daniel Craig", "Christoph Waltz", "Léa Seydoux"],
+    "category": "Action",
+    "previewImage":
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM2Nzg4MzkwOF5BMl5BanBnXkFtZTgwNzA0OTE3NjE@._V1_.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Kingdom of Heaven",
+    "description":
+      "Balian of Ibelin travels to Jerusalem during the crusades of the 12th century, and there he finds himself as the defender of the city and its people",
+    "releaseYear": 2005,
+    "stars": ["Orlando Bloom", "Eva Green", "Liam Neeson"],
+    "category": "Action",
+    "previewImage":
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2MTIwNjg0MV5BMl5BanBnXkFtZTcwNjAxODIzMw@@._V1_SY1000_CR0,0,655,1000_AL_.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Forrest Gump",
+    "description":
+      "JFK, LBJ, Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75",
+    "releaseYear": 1994,
+    "stars": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+    "category": "Action",
+    "previewImage":
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2MTIwNjg0MV5BMl5BanBnXkFtZTcwNjAxODIzMw@@._V1_SY1000_CR0,0,655,1000_AL_.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Titanic",
+    "description":
+      "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic",
+    "releaseYear": 1997,
+    "stars": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+    "category": "Drama",
+    "previewImage":
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY1000_CR0,0,671,1000_AL_.jpg"
+  },
+  {
+    "id": 7,
+    "title": "The Man in the Iron Mask",
+    "description":
+      "The cruel King Louis XIV of France has a secret twin brother who he keeps imprisoned. Can the twin be substituted for the real king?",
+    "releaseYear": 1998,
+    "stars": ["Leonardo DiCaprio", "Jeremy Irons", "John Malkovich"],
+    "category": "Action",
+    "previewImage":
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BZjM2YzcxMmQtOTc2Mi00YjdhLWFlZjUtNmFmMDQzYzU2YTk5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Liar Liar",
+    "description":
+      "A fast-track lawyer can't lie for 24 hours due to his son's birthday wish after he turns his son down for the last time",
+    "releaseYear": 1997,
+    "stars": ["Jim Carrey", "Maura Tierney", "Justin Cooper"],
+    "category": "Comedy",
+    "previewImage":
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BYjZlYmJjYWYtZDM0NS00YmZlLWIyMTAtMDY5ZTNjZTgwMDhjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,676,1000_AL_.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Rush Hour 3",
+    "description":
+      "After an attempted assassination on Ambassador Han, Lee and Carter head to Paris to protect a French woman with knowledge of the Triads' secret leaders",
+    "releaseYear": 2007,
+    "stars": ["Jackie Chan", "Chris Tucker", "Max von Sydow"],
+    "category": "Comedy",
+    "previewImage":
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0Nzg5NjQ0MDBeQTJeQWpwZ15BbWU3MDE4Mzg5NDE@._V1_.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Gladiator",
+    "description":
+      "When a Roman General is betrayed, and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge",
+    "releaseYear": 2000,
+    "stars": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"],
+    "category": "Action",
+    "previewImage":
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,675,1000_AL_.jpg"
+  }
+]

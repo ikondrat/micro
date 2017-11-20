@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "title": "The LEGO Ninjago Movie",
+  "description":
+    "Six young ninjas Lloyd, Jay, Kai, Cole, Zane and Nya are tasked with defending their island home, called Ninjago. By night, they're gifted warriors, using their skills and awesome fleet of vehicles to fight villains and monsters. By day, they're ordinary teens struggling against their greatest enemy: high school",
+  "releaseYear": 2017,
+  "stars": ["Jackie Chan", "Dave Franco", "Fred Armisen"],
+  "category": "Animation",
+  "previewImage":
+    "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxNjIxNzM5Nl5BMl5BanBnXkFtZTgwMzg5NzY2MjI@._V1_SY1000_CR0,0,674,1000_AL_.jpg"
+}
