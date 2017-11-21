@@ -13,7 +13,7 @@
     {
       "type": "node",
       "request": "launch",
-      "program": "${workspaceFolder}/web.js",
+      "program": "${workspaceFolder}/index",
       "cwd": "${workspaceFolder}",
       "name": "Launch Program"
     }
